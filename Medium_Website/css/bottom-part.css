@@ -1,0 +1,241 @@
+.container-2{
+    width: 100%;
+    margin: auto;
+    height: 50px;
+    border-top:1px solid #F2F2F2;
+    margin-top: 50px;
+}
+.container-bottom{
+    width: 1220px;
+    margin: auto;
+    margin-top: 22px;
+  /*  border: 1px solid black; */
+    display: grid;
+    grid-template-columns: 775px 1fr;
+}
+.fixed-bottom{
+    position: sticky;
+    height: 500px;
+    top: 110px;
+    right: 0px;
+    
+}
+.space{
+    height: 8px;
+    width: 600px;
+}
+.c-1{
+    font-size: 14px;
+}
+.h-4{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.h-4a{
+    margin-top: 5px;
+    font-size: 14px;
+    color: #6B6B6B;
+}
+.h-4time{
+    font-size: 13px;
+    color: #6B6B6B;
+    font-weight: 100;
+    margin-top: 12px;
+}
+.entry1{
+    position: absolute;
+    top: 996px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.scrolling-bottom{
+    display: grid;
+    row-gap: 45px;
+}
+.entry2{
+    position: absolute;
+    top: 1186px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry3{
+    position: absolute;
+    top: 1376px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry4{
+    position: absolute;
+    top: 1566px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry5{
+    position: absolute;
+    top: 1756px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry6{
+    position: absolute;
+    top: 1946px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry7{
+    position: absolute;
+    top: 2136px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry8{
+    position: absolute;
+    top: 2326px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry9{
+    position: absolute;
+    top: 2516px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry10{
+    position: absolute;
+    top: 2706px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry11{
+    position: absolute;
+    top: 2896px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry12{
+    position: absolute;
+    top: 3086px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry13{
+    position: absolute;
+    top: 3276px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry14{
+    position: absolute;
+    top: 3466px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.entry15{
+    position: absolute;
+    top: 3656px;
+    right: 760px;
+    height: 130px;
+    width: 200px;
+}
+.buttons{
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px 10px;
+   
+}
+.but-1{
+    text-align: center;
+    height: 30px;
+    width: 130px;
+    background-color: #F2F2F2;
+    border-radius: 50px;
+    font-size: 14px;
+}
+.but-3{
+    text-align: center;
+    height: 30px;
+    width: 120px;
+    background-color: #F2F2F2;
+    border-radius: 50px;
+    font-size: 14px;
+}
+.but-4{
+    text-align: center;
+    height: 30px;
+    width: 160px;
+    background-color: #F2F2F2;
+    border-radius: 50px;
+    font-size: 14px;
+}
+.but-5{
+    text-align: center;
+    height: 30px;
+    width: 83px;
+    background-color: #F2F2F2;
+    border-radius: 50px;
+    font-size: 14px;
+}
+.but-7{
+    text-align: center;
+    height: 30px;
+    width: 162px;
+    background-color: #F2F2F2;
+    border-radius: 50px;
+    font-size: 14px;
+}
+.but-8{
+    text-align: center;
+    height: 30px;
+    width: 116px;
+    background-color: #F2F2F2;
+    border-radius: 50px;
+    font-size: 14px;
+}
+.but-9{
+    text-align: center;
+    height: 30px;
+    width: 82px;
+    background-color: #F2F2F2;
+    border-radius: 50px;
+    font-size: 18px;
+}
+.but-c{
+    position: relative;
+    top: 5px;
+    font-size: 18px;
+    font-weight: 200;
+    color: #242424;
+}
+.more-but{
+    margin-top: 30px;
+    color: green;
+    margin-left: 2px;
+}
+.bottom{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 50px;
+    border-top: 1px solid #F2F2F2;
+    margin-top: 30px;
+    padding-top: 25px;
+}
+.last
+{
+  color: #6B6B6B;
+}
