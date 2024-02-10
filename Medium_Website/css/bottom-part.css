@@ -52,6 +52,7 @@
 .scrolling-bottom{
     display: grid;
     row-gap: 45px;
+    padding-bottom: 10px;
 }
 .entry2{
     position: absolute;
