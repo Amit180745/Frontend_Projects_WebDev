@@ -68,21 +68,20 @@
 }
 .head-1{
     position: absolute;
-    left: 257px;
-    top: 574px;
+    left: -8px;
+    top: -20px;
     z-index: 1;
 }
 .img1{
     height: 21px;
     width: 21px;
+    position: absolute;
+    left: -25px;
+    bottom: -1px;
+
 }
 .img,.head-1{
     display: inline-block;
-}
-.img{
-    position: absolute;
-    left: -30px;
-
 }
 .content-1a,
 .trending-images{
