@@ -22,7 +22,7 @@
 .cb-logo-img{
     width: 50%;
     /* border: 1px solid green; */
-    background-image: url('images/cb-logo.jpeg');
+    background-image: url('cb-logo.jpeg');
     background-repeat: no-repeat;
     background-size: contain;
     margin: auto;
