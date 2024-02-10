@@ -80,9 +80,10 @@
     bottom: -1px;
 
 }
-.img,.head-1{
+                             /* *** if img and head-1 are div then with this we can align both of them in same line  *** */
+/* .img,.head-1{                         
     display: inline-block;
-}
+} */
 .content-1a,
 .trending-images{
     display: inline-block;
